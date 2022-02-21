@@ -10,8 +10,8 @@ async function main() {
   );
 
 
-  const Token = await hre.ethers.getContractFactory("Token");
-  const token = await Token.deploy();
+  const Token = await hre.ethers.getContractFactory("SSToken");
+  const token = await Token.deploy("Souhail Sellami Token","SST");
 
   await token.deployed();
 
