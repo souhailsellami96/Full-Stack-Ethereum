@@ -1,6 +1,6 @@
-# Basic Sample Hardhat Project
+# SEND COINS AND GET BALANCE (METAMASK)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates a  Hardhat use case. It comes with sending and receiving new token to user account. The stack is based on ReactJS,Solidity and NodeJS.
 
 Try running some of the following tasks:
 
